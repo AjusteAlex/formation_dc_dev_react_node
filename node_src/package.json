@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongodb": "^3.4.1",
+    "mongoose": "^5.12.9",
     "src": "^1.1.2"
   },
   "devDependencies": {
